@@ -1,0 +1,9 @@
+C:\Users\50530895\source\repos\Stemming\Stemming\bin\Debug\Stemming.exe.config
+C:\Users\50530895\source\repos\Stemming\Stemming\bin\Debug\Stemming.exe
+C:\Users\50530895\source\repos\Stemming\Stemming\bin\Debug\Stemming.pdb
+C:\Users\50530895\source\repos\Stemming\Stemming\obj\Debug\Stemming.csprojAssemblyReference.cache
+C:\Users\50530895\source\repos\Stemming\Stemming\obj\Debug\Stemming.Properties.Resources.resources
+C:\Users\50530895\source\repos\Stemming\Stemming\obj\Debug\Stemming.csproj.GenerateResource.cache
+C:\Users\50530895\source\repos\Stemming\Stemming\obj\Debug\Stemming.exe
+C:\Users\50530895\source\repos\Stemming\Stemming\obj\Debug\Stemming.pdb
+C:\Users\50530895\source\repos\Stemming\Stemming\obj\Debug\Stemming.Stemming.resources
